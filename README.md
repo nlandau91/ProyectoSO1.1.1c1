@@ -8,4 +8,4 @@ $ gcc main.c -o nombre_archivo
 
 Para ejecutar:
 
-./nombre_archivo
+$ ./nombre_archivo
